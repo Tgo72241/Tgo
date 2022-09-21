@@ -20,7 +20,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 中視,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
 
-霹靂台灣台,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
+霹靂台灣台,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
 
 華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
 
@@ -46,7 +46,7 @@ CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD833733728
 
 尼克兒童頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live105&nid=185
 
-momo親子台,http://iptv12k.com:35461/live/80301070602/456776/1209.m3u8
+momo親子台,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
 
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON
 
@@ -174,7 +174,7 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 
-Z頻道,mitv://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
+Z頻道,P2p://ns1.hellotvvod.com:9906/12d9d0895a2848b29c19099b1c750927
 
 暴走兄弟,http://zzy789.xyz/bili.php?id=10544270
 
