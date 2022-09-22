@@ -86,9 +86,9 @@ TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
 緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 
-高點綜合,
+高點綜合,P2p://ns1.hellotvvod.com:9906/4b371942e3d84f04997850fb09280df1
 
-JET綜合,http://iptv12k.com:35461/live/80301070602/456776/1262.m3u8
+JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 
 東森購物3,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
 
